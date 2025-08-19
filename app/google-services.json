@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "105197596185",
+    "project_id": "login-signup-ad860",
+    "storage_bucket": "login-signup-ad860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105197596185:android:a9dd80ec8d09ae4a1bc488",
+        "android_client_info": {
+          "package_name": "com.s22009892.railwayapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHG0faUxVuJvKi6tKS5Ljgr2lfdieEo20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105197596185:android:8f0465555e224a371bc488",
+        "android_client_info": {
+          "package_name": "com.s22009892.railwayguide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHG0faUxVuJvKi6tKS5Ljgr2lfdieEo20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
